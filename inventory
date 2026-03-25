@@ -1,3 +1,4 @@
 SRVR01 ansible_host=192.168.0.190 
 SRVR02 ansible_host=192.168.0.189 
 SRVR03 ansible_host=192.168.0.195
+SRVR04 ansible_host=10.0.2.15
