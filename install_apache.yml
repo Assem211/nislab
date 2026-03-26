@@ -17,6 +17,6 @@
       name:
         - httpd
         - php
-      state: latest
+      state: absent
       update_cache: yes
     when: ansible_distribution == "AlmaLinux"
